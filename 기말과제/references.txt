@@ -1,0 +1,5 @@
+데이터
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-chess-games?resource=download
+코드
+https://www.kaggle.com/code/aymenmouffok/analyzing-chess-game-data-90-accuracy
+https://www.kaggle.com/code/mostafaa8/online-chess-games-data-analysis
